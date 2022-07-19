@@ -5,7 +5,7 @@
 指導老師:趙令文、許雅婷、馬全德<br>
 組別:第五組<br>
 <br>
-前端使用技術:html,css,javaScript,jQuery,Boostrap5<br>
+前端使用技術:html,css,javaScript,jQuery,Boostrap5,Vue.js<br>
 後端使用技術:Java,SpringBoot<br>
 資料庫:MySQL<br>
 框架:hibernate,spring<br>
